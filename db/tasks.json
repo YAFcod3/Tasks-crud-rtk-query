@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "comprar almurzo",
+      "description": "en la casita",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "pasear a los perros",
+      "description": "en mi barrio",
+      "completed": false
+    },
+    {
+      "name": "algo nuevo",
+      "description": "something new",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "name": "Teleco",
+      "description": "sddsgds",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "name": "Teleco",
+      "description": "sddsgds",
+      "completed": true,
+      "id": 5
+    }
+  ]
+}
